@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/mstytn/frontend-mentor-stats-preview-card](https://github.com/mstytn/frontend-mentor-stats-preview-card)
-- Live Site URL: [https://mstytn.github.io/frontend-mentor-stats-preview-card/](hhttps://mstytn.github.io/frontend-mentor-stats-preview-card)
+- Live Site URL: [https://mstytn.github.io/frontend-mentor-stats-preview-card](hhttps://mstytn.github.io/frontend-mentor-stats-preview-card)
 
 ## My process
 
